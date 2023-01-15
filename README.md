@@ -37,4 +37,8 @@ The following libraries are required to run the code:
 
 
 # Description of files in repository
-# Maybe add the graphics ect?
+
+File Name	  								| File Description
+-------------								| -------------
+munich_airbnb_analysis.jpny  				| Jupyter Notebook containing the whole analysis.
+README.md									| Readme file.
