@@ -38,7 +38,14 @@ The following libraries are required to run the code:
 
 # Description of files in repository
 
-File Name	  								| File Description
--------------								| -------------
-munich_airbnb_analysis.jpny  				| Jupyter Notebook containing the whole analysis.
-README.md									| Readme file.
+File Name	  										| File Description
+-------------										| -------------
+munich_airbnb_analysis.ipynb  						| Jupyter Notebook containing the whole analysis.
+README.md											| Readme file.
+plots/Apartment_Price_Heatmap.png					| Heatmap of apartment prices in Munich.
+plots/Neighbourhoods_Prices.png						| Plot of average apartment prices per neighborhood.
+plots/Neighbourhoods_Prices.html					| Interactive HTML version of the plot.
+plots/Unique_Amenities.png							| Distribution of unique amenities for apartment listings in Munich.
+plots/Wordcloud_Oktoberfest.png						| Wordcloud generated from listing titles.
+plots/Plot_Price_per_Night_by_Scraping_Date.png		| Plot of prive averages separated by data scraping date.
+
